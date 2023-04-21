@@ -36,7 +36,7 @@ React App return :
                 <a href="#" className="text-blue-500 mt-4 ml-5">Forgot password?</a>
         </form>
       </div>
-      <div className="bg-[url('./assets/ccc.jpg')] bg-cover bg-center w-1/2 flex"></div>
+      <div className="bg-[url('./assets/image.svg')] bg-cover bg-center w-1/2 flex"></div>
     </div>
 ```
 #
