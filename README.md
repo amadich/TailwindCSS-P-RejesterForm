@@ -40,3 +40,5 @@ React App return :
     </div>
 ```
 #
+# Download Tailwinf 
+https://tailwindcss.com/docs/installation
