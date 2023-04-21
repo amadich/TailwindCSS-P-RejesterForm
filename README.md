@@ -42,3 +42,8 @@ React App return :
 #
 # Download Tailwinf 
 https://tailwindcss.com/docs/installation
+# Install Tailwind CSS with Vite
+https://tailwindcss.com/docs/guides/vite
+#
+#
+#
