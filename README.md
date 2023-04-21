@@ -1,4 +1,6 @@
 # TailwindCSS Page-RejesterForm
-Get a beautiful login page look with tailwind 🥞
-![image](https://user-images.githubusercontent.com/74735976/233526136-455c69e2-2cac-4094-8823-15f2215621be.png)
+#Get a beautiful login page look with tailwind 🥞
+###
+![image](https://user-images.githubusercontent.com/74735976/233526221-90b0a2b4-861f-40f4-b932-e658dae4f27b.png)
+
 #
