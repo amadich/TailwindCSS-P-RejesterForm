@@ -40,6 +40,8 @@ React App return :
     </div>
 ```
 #
+![image](https://user-images.githubusercontent.com/74735976/233527268-76eb7fcf-6f71-46b2-99ac-5171d8c2daa6.png)
+
 # Download Tailwinf 
 https://tailwindcss.com/docs/installation
 # Install Tailwind CSS with Vite
